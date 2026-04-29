@@ -1,5 +1,5 @@
 ![Deployement of book](../../actions/workflows/deploy-book.yml/badge.svg)
-[Link to Jupyter-book template book](https://cascadiaquakes.github.io/2026_Geodesy_TSC/)
+[Link to 2026 Geodesy TSC Jupyter-book](https://cascadiaquakes.github.io/2026_Geodesy_TSC/)
 
 # jupyter-book-template
 
